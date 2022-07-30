@@ -214,5 +214,3 @@ campsiteRouter.route('/:campsiteId/comments/:commentId')
 });
 
 module.exports = campsiteRouter;
-
-module.exports = campsiteRouter;
